@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089067275927",
+    "project_id": "intense-glow-310316",
+    "storage_bucket": "intense-glow-310316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089067275927:android:2099f7b5b88de35b877bd2",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089067275927-3p6q3l6939i3iitn0um60ulss4msu35f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDydOllf5yirWJZ8IbayzV6hKbKnSzi2-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089067275927-3p6q3l6939i3iitn0um60ulss4msu35f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
